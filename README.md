@@ -2,7 +2,7 @@
 Materials used to conduct SQL Peer Tutoring Workshop, organised under Centre for Experiential Learning (CEL) at Singapore University of Social Sciences (SUSS).
 
 ## Installation
-To install the database, simply load copy and paste or load the `bikeStores_database.sql` script into your selected choice
+To install the database, simply copy and paste or load the `bikeStores_database.sql` script into your selected choice
 of database and execute script. For the workshop, we utilised [PostgreSQL](https://www.postgresql.org) as our choice of database.
 
 ## Content
