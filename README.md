@@ -12,6 +12,8 @@ The workshop was conducted in two different stages, where students with no prior
     - [Day 1](https://github.com/wtlow003/sql-peer-tutor-workshop/blob/main/SQL%20Beginner%20Workshop/sql_beginner_day1.pdf): Understanding Database, SELECT, DISTINCT, WHERE, AND, OR, IN, BETWEEN
     - [Day 2](https://github.com/wtlow003/sql-peer-tutor-workshop/blob/main/SQL%20Beginner%20Workshop/sql_beginner_day2.pdf): LIKE, IS NULL, NOT, ORDER BY, LIMIT
     - [Day 3](https://github.com/wtlow003/sql-peer-tutor-workshop/blob/main/SQL%20Beginner%20Workshop/sql_beginner_day3.pdf): COUNT, SUM, MIN, MAX, AVG, GROUP BY, HAVING, DERIVED COLUMNS
+2. Intermediate SQL Workshop
+    - [Day 1](/SQL%20Intermediate%20Workshop/sql_intermediate_day1.pdf): JOINS
 
 
 ## Authors and Acknowledgement
